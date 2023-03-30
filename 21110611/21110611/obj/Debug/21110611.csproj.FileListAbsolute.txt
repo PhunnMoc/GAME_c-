@@ -1,0 +1,11 @@
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\bin\Debug\21110611.exe.config
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\bin\Debug\21110611.exe
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\bin\Debug\21110611.pdb
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\21110611.csproj.AssemblyReference.cache
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\21110611.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\_21110611.Form1.resources
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\_21110611.Properties.Resources.resources
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\21110611.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\21110611.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\21110611.exe
+D:\TaiLieuHocTap\winform\buoi5\21110611\21110611\obj\Debug\21110611.pdb
